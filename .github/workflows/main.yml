@@ -1,4 +1,4 @@
-name: CI/CD Docker Build & Push
+name: UAS RPL
 
 on:
   push:
